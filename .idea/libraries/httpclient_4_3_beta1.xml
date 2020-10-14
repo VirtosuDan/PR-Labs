@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="httpclient-4.3-beta1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/httpclient-4.3-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/jackson-all-1.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/jackson-core-2.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/jackson-mapper-asl-1.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/jackson-xml-databind-0.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/jaxb-api-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/snakeyaml-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/struts2-core-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/jackson-core-2.2.0-rc1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/java-json.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="struts2-core-2.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Java Jar/struts2-core-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
